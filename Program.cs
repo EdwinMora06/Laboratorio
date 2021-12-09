@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Mi_Prueba_Menu
+namespace Laboratorio_Practica
 {
     class Programa
     {
